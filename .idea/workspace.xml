@@ -2,610 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59fed931-add1-4231-81c6-44961af8566f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_4_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_api_1_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_client_1_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_common_1_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_2_8_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_0_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_0_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_0_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_0_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_0_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_axet_kaptcha_0_0_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jhlabs_filters_2_0_235.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_sqljdbc4_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_4_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_ojdbc6_11_2_0_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qcloud_cos_api_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_2_27.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_14_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_33_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_42_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_33_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_42_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_33_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_42_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_33_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_42_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_33_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_42_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_33_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_42_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_prometheus_simpleclient_0_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_16.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_27.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_16.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_27.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_16.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_27.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_60.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_60.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20140107.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_28.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_1_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_alibaba_nacos_config_0_2_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_alibaba_nacos_discovery_0_2_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_alibaba_nacos_config_0_2_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_alibaba_nacos_discovery_0_2_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_7_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-admin/gmall-admin.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-core/gmall-core.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/RenrenApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/config/DbConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/controller/SysGeneratorController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/dao/GeneratorDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/dao/MySQLGeneratorDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/dao/OracleGeneratorDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/dao/PostgreSQLGeneratorDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/dao/SQLServerGeneratorDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/entity/ColumnEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/entity/TableEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/service/SysGeneratorService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/utils/Constant.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/utils/DateUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/utils/GenUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/utils/PageUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/utils/Query.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/utils/R.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/utils/RRException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/utils/RRExceptionHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/generator.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/mapper/MySQLGeneratorDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/mapper/OracleGeneratorDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/mapper/PostgreSQLGeneratorDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/mapper/SQLServerGeneratorDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/css/AdminLTE.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/css/all-skins.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/fonts/FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/fonts/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/fonts/fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/js/common.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/js/generator.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/js/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/libs/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/libs/app.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/libs/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/libs/fastclick.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/libs/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/libs/jquery.slimscroll.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/libs/router.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/libs/vue.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/jqgrid/grid.locale-cn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/jqgrid/jquery.jqGrid.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/jqgrid/ui.jqgrid-bootstrap-ui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/jqgrid/ui.jqgrid-bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/jqgrid/ui.jqgrid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/layer/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/layer/mobile/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/layer/mobile/need/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/layer/skin/default/icon-ext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/layer/skin/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/layer/skin/default/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/layer/skin/default/loading-0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/layer/skin/default/loading-1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/layer/skin/default/loading-2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/layer/skin/moon/default.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/static/plugins/layer/skin/moon/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/template/Controller.java.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/template/Dao.java.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/template/Dao.xml.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/template/Entity.java.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/template/Service.java.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/template/ServiceImpl.java.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/template/add-or-update.vue.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/template/index.vue.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/template/menu.sql.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/views/generator.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/views/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/src/main/resources/views/main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/generator.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/mapper/MySQLGeneratorDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/mapper/OracleGeneratorDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/mapper/PostgreSQLGeneratorDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/mapper/SQLServerGeneratorDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/css/AdminLTE.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/css/all-skins.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/fonts/FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/fonts/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/fonts/fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/js/common.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/js/generator.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/js/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/libs/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/libs/app.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/libs/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/libs/fastclick.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/libs/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/libs/jquery.slimscroll.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/libs/router.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/libs/vue.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/jqgrid/grid.locale-cn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/jqgrid/jquery.jqGrid.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/jqgrid/ui.jqgrid-bootstrap-ui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/jqgrid/ui.jqgrid-bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/jqgrid/ui.jqgrid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/layer/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/layer/mobile/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/layer/mobile/need/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/layer/skin/default/icon-ext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/layer/skin/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/layer/skin/default/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/layer/skin/default/loading-0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/layer/skin/default/loading-1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/layer/skin/default/loading-2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/layer/skin/moon/default.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/static/plugins/layer/skin/moon/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/template/Controller.java.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/template/Dao.java.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/template/Dao.xml.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/template/Entity.java.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/template/Service.java.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/template/ServiceImpl.java.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/template/add-or-update.vue.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/template/index.vue.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/template/menu.sql.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/views/generator.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/views/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-generator/target/classes/views/main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-oms/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-oms/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-oms/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-oms/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-oms/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-oms/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-oms/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-oms/src/main/java/com/atguigu/gmall/oms/GmallOmsApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-oms/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-oms/src/test/java/com/atguigu/gmall/oms/GmallOmsApplicationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/GmallPmsApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/config/DataSourceConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/controller/AttrAttrgroupRelationController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/controller/AttrController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/controller/AttrGroupController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/controller/BrandController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/controller/CategoryController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/controller/CommentReplayController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/controller/ProductAttrValueController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/controller/SkuImagesController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/controller/SkuInfoController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/controller/SkuSaleAttrValueController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/controller/SpuCommentController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/controller/SpuImagesController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/controller/SpuInfoController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/controller/SpuInfoDescController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/dao/AttrAttrgroupRelationDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/dao/AttrDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/dao/AttrGroupDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/dao/BrandDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/dao/CategoryDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/dao/CommentReplayDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/dao/ProductAttrValueDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/dao/SkuImagesDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/dao/SkuInfoDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/dao/SkuSaleAttrValueDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/dao/SpuCommentDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/dao/SpuImagesDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/dao/SpuInfoDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/dao/SpuInfoDescDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/entity/AttrAttrgroupRelationEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/entity/AttrEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/entity/AttrGroupEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/entity/BrandEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/entity/CategoryEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/entity/CommentReplayEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/entity/ProductAttrValueEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/entity/SkuImagesEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/entity/SkuInfoEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/entity/SkuSaleAttrValueEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/entity/SpuCommentEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/entity/SpuImagesEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/entity/SpuInfoDescEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/entity/SpuInfoEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/AttrAttrgroupRelationService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/AttrGroupService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/AttrService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/BrandService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/CategoryService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/CommentReplayService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/ProductAttrValueService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/SkuImagesService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/SkuInfoService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/SkuSaleAttrValueService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/SpuCommentService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/SpuImagesService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/SpuInfoDescService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/SpuInfoService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/impl/AttrAttrgroupRelationServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/impl/AttrGroupServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/impl/AttrServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/impl/BrandServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/impl/CategoryServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/impl/CommentReplayServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/impl/ProductAttrValueServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/impl/SkuImagesServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/impl/SkuInfoServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/impl/SkuSaleAttrValueServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/impl/SpuCommentServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/impl/SpuImagesServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/impl/SpuInfoDescServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/service/impl/SpuInfoServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/bootstrap.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/mapper/pms/AttrAttrgroupRelationDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/mapper/pms/AttrDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/mapper/pms/AttrGroupDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/mapper/pms/BrandDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/mapper/pms/CategoryDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/mapper/pms/CommentReplayDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/mapper/pms/ProductAttrValueDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/mapper/pms/SkuImagesDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/mapper/pms/SkuInfoDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/mapper/pms/SkuSaleAttrValueDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/mapper/pms/SpuCommentDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/mapper/pms/SpuImagesDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/mapper/pms/SpuInfoDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/mapper/pms/SpuInfoDescDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-pms/src/test/java/com/atguigu/gmall/pms/GmallPmsApplicationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-sms/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-sms/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-sms/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-sms/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-sms/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-sms/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-sms/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-sms/src/main/java/com/atguigu/gmall/sms/GmallSmsApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-sms/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-sms/src/test/java/com/atguigu/gmall/sms/GmallSmsApplicationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/GmallWmsApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/controller/FeightTemplateController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/controller/ShAreaController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/controller/WareInfoController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/controller/WareOrderTaskController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/controller/WareOrderTaskDetailController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/controller/WareSkuController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/dao/FeightTemplateDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/dao/ShAreaDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/dao/WareInfoDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/dao/WareOrderTaskDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/dao/WareOrderTaskDetailDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/dao/WareSkuDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/entity/FeightTemplateEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/entity/ShAreaEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/entity/WareInfoEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/entity/WareOrderTaskDetailEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/entity/WareOrderTaskEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/entity/WareSkuEntity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/service/FeightTemplateService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/service/ShAreaService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/service/WareInfoService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/service/WareOrderTaskDetailService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/service/WareOrderTaskService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/service/WareSkuService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/service/impl/FeightTemplateServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/service/impl/ShAreaServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/service/impl/WareInfoServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/service/impl/WareOrderTaskDetailServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/service/impl/WareOrderTaskServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/service/impl/WareSkuServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/resources/mapper/wms/FeightTemplateDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/resources/mapper/wms/ShAreaDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/resources/mapper/wms/WareInfoDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/resources/mapper/wms/WareOrderTaskDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/resources/mapper/wms/WareOrderTaskDetailDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/main/resources/mapper/wms/WareSkuDao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall-wms/src/test/java/com/atguigu/gmall/wms/GmallWmsApplicationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmall.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gnall-ums/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gnall-ums/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gnall-ums/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gnall-ums/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gnall-ums/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gnall-ums/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gnall-ums/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gnall-ums/src/main/java/com/atguigu/gnall/ums/GnallUmsApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gnall-ums/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gnall-ums/src/test/java/com/atguigu/gnall/ums/GnallUmsApplicationTests.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/gmall-core/target/" />
@@ -666,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/dao/GeneratorDao.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="203">
-              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -705,7 +101,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="300" />
     <option name="y" value="2" />
     <option name="width" value="1400" />
@@ -894,18 +290,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572276952237</updated>
-      <workItem from="1572276955280" duration="1890000" />
+      <workItem from="1572276955280" duration="2132000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次初始化">
+      <created>1572279763364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572279763364</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1890000" />
+    <option name="totallyTimeSpent" value="2132000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="300" y="2" width="1400" height="991" extended-state="0" />
+    <frame x="300" y="2" width="1400" height="991" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33574006" sideWeight="0.50289434" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33574006" sideWeight="0.50289434" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -924,7 +328,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3668596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3668596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -942,6 +346,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次初始化" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1015,7 +423,7 @@
     <entry file="file://$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/dao/GeneratorDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding />
         </state>
       </provider>
